@@ -12,8 +12,6 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/yyouwu/)
 [<img src='https://cdn-icons-png.flaticon.com/512/6517/6517327.png' alt='PersonalHomepage' height='20'>](https://n.ethz.ch/~youwuyou/)
 
- ---
-
 
 #### Some statistics:
 ![Profile views](https://gpvc.arturio.dev/youwuyou)
