@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there (๑•̀ㅂ•́)و✧�
 
-<!--
-**youwuyou/youwuyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on courses I am enrolled to at ETH Zürich
+- 🌱 I’m currently a bachelor student studying CSE
+- ⚡ Fun fact: I am a language enthusiast ( ͡° ͜ʖ ͡°)
+- [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/yyouwu/) page
+ LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+[![You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youwuyou)](https://github.com/youwuyou/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youwuyou)](https://github.com/youwuyou/github-readme-stats)
