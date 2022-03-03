@@ -1,4 +1,4 @@
-### Hi there (๑•̀ㅂ•́)و✧�
+### Hi there (๑•̀ㅂ•́)و✧
 
 
 - 🔭 I’m currently working on courses I am enrolled to at ETH Zürich
@@ -9,8 +9,6 @@
 
 
 
+[![You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youwuyou&theme=tokyonight&show_icon=true)](https://github.com/youwuyou/github-readme-stats)
 
-
-[![You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youwuyou)](https://github.com/youwuyou/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youwuyou)](https://github.com/youwuyou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youwuyou&theme=tokyonight&show_icon=true)](https://github.com/youwuyou/github-readme-stats)
