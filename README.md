@@ -14,7 +14,7 @@
 
 
 #### Some statistics:
-![Profile views](https://gpvc.arturio.dev/youwuyou)
+![Profile Views](https://komarev.com/ghpvc/?username=youwuyou&label=PROFILE+VIEWS)
 
 [![You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youwuyou&theme=tokyonight&show_icon=true)](https://github.com/youwuyou/github-readme-stats)
 
