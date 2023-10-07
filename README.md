@@ -18,4 +18,4 @@
 
 [![You's GitHub stats](https://github-readme-stats.vercel.app/api?username=youwuyou&theme=tokyonight&show_icon=true)](https://github.com/youwuyou/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youwuyou&theme=tokyonight&show_icon=true)](https://github.com/youwuyou/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youwuyou&layout=compact&theme=tokyonight&show_icon=true)
