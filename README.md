@@ -1,8 +1,8 @@
 ### Hi there (๑•̀ㅂ•́)و✧
 
 
-- 🔭 I’m currently working on courses I am enrolled to at ETH Zürich
-- 🌱 I’m currently a bachelor student studying CSE
+- 🔭 I’m currently working on courses I am enrolled in at ETH Zürich
+- 🌱 I’m currently an undergraduate student studying CSE
 - ⚡ Fun fact: I am also a language enthusiast ( ͡° ͜ʖ ͡°)
 ---
 
