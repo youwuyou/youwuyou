@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on courses I am enrolled in at ETH Zürich
-- 🌱 I’m currently an undergraduate student studying CSE
+- 🌱 I’m currently a graduate student studying CSE
 - ⚡ Fun fact: I am also a language enthusiast ( ͡° ͜ʖ ͡°)
 ---
 
